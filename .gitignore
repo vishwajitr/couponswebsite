@@ -1,0 +1,26 @@
+# User specific & automatically generated files #
+#################################################
+wp-admin/.htaccess
+wp-content/uploads/*
+wp-content/plugins/*
+wp-content/themes/couponstheme/node_modules/
+/.htaccess
+wp-config.php
+wp-content/object-cache.php
+wp-content/db.php
+
+# IDE and editor specific files #
+#################################
+/nbproject
+.idea
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
